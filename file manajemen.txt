@@ -1,0 +1,6 @@
+/app/ → Berisi fungsi utama aplikasi.
+/config/ → Konfigurasi database dan API.
+/public/ → Berisi file statis (CSS, JS).
+/views/ → Berisi halaman tampilan aplikasi.
+index.php → Halaman utama aplikasi.
+db.php → Koneksi ke database.
